@@ -2,7 +2,7 @@
 Machine Learning-based Heart Disease Prediction system using classification algorithms to assess cardiovascular risk from clinical patient data.
 
 
-# 🫀 Heart Disease Classification using Logistic Regression
+# 📖 Heart Disease Classification using Logistic Regression
 
 ---
 
