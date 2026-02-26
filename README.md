@@ -1,6 +1,3 @@
-# 📖 Heart Disease Classification using Logistic Regression
----
-
 ## 📖 Project Overview
 
 Cardiovascular disease remains one of the leading causes of death worldwide. Early detection plays a critical role in reducing mortality rates and improving patient outcomes.
